@@ -1,2 +1,2 @@
-# js-algorithm
-Js 15 Algorithm
+## Algorithm with Javascript
+#### @cikencey
